@@ -9,5 +9,5 @@ This site is designed with the help of:
 How to use this project?
   1. Click on clone or download in upper right corner, and then select download as zip.
   2. Extract the zip file.
-  3. Open tourtravel folder.
+  3. Open TourTravel-master folder.
   4. Open index.html.
